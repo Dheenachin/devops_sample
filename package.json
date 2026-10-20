@@ -1,0 +1,11 @@
+{
+  "name": "devops-sample-webapp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A beginner-friendly Node.js app for practicing Docker and GitHub Actions CI",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  }
+}
